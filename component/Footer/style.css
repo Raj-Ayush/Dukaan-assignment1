@@ -1,0 +1,53 @@
+.footer{
+    background-color: #1a181e;
+    padding-left: 70px;
+}
+.footer-row{
+   display: flex;
+   padding: 55px 50px 0 30px;
+   width: 70%;
+   
+}
+
+#main{
+    position: relative;
+    margin: 0px 30% 0px 25%;
+}
+.iconImage{
+    margin-left: 20px;
+    height: 150px;
+    width: 150px;
+}
+.Body .content{
+    
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    width: 125px;
+    
+}
+.Body .content span{
+    font-size: 20px;
+}
+.bord{
+    border: 1px solid white;
+    margin: 3vw 7vw 3vw 1vw;
+}
+
+.Address{
+    width: 90%;
+    position:initial;
+    text-align: center;
+}
+.Address h4{
+    font-size: 25px;
+    color: white;
+}
+.Address p{
+    font-size: 20px;
+    color: white;
+}
+.Address .Group-18{
+    cursor:pointer;
+    padding-bottom: 50px;
+}

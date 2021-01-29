@@ -1,0 +1,90 @@
+.productListt{
+    width: 100%;
+}
+.ProductQ{
+    font-size: 25px;
+    margin-left: 25px;
+    font-stretch: normal;
+    font-style: normal;
+}
+.Productlist-row{
+    display:flex;
+    margin: 25px 0px 25px 25px;
+}
+.ProductQ .quantity{
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #146eb4;
+    color: white;
+    border-radius: 5px;
+}
+.body-col{
+    position: relative;
+    left: 150%;
+    width: 300px;
+    height: 120px; 
+}
+.AddtoCart Button{
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    color: #146eb4;
+}
+.productimage-col{
+    filter: brightness(90%);
+}
+.title, .AddtoCart span{
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: normal;
+}
+.AddtoCart{
+    position: relative;
+    border: 2px solid #146eb4;
+    width: 100px;
+    margin-left: 300px ;
+    border-radius: 10px;
+}
+.unit{
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    margin-top: 20px;
+    padding-left:5px;
+    height: 0px;
+}
+.NumberofQ{
+    color: #146eb4;
+}
+
+.price{
+    display: flex;
+    margin-top: 10px;
+    height: 10px;
+    font-size: 25px;
+}
+.add{
+    width: 25px;
+    border-collapse: collapse;
+    border: none;
+}
+.exact_price{
+    display: inline;
+    text-decoration: line-through; 
+    margin: 15px;
+    color: #808080;
+}
+.offer_price .exact_price{
+    margin-top: 25px;
+}
+
+.border{
+    margin-left:25px;
+    width: 100%;
+    border-top: 2px solid #d9d9d9;
+    cursor: pointer;
+}
+.border:hover{
+    border-top: 2px solid #146eb4;
+}

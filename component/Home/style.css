@@ -1,0 +1,128 @@
+.home{
+    height:100%;
+    width:100%;
+}
+
+.col{
+    float: left;
+}
+.shop {
+    width: 150px;
+    height: 150px;
+    margin: 48px 40px 48px 150px;
+    object-fit: contain;
+    border-radius: 24px;
+}
+.Rectangle{
+    display: table;
+}
+
+.Mano-Super-Market {
+    width: 500px;
+    height: 65px;
+    margin: 72px 0px 2px 0px;
+    font-size: 50px;
+    /* font-weight: 2000; */
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: #1a181e;
+}
+
+.TRUSTED-SELLER {
+    width: 416px;
+    height: 48px;
+    margin: 30px 0 0 25px;
+    font-family: GalanoGrotesque;
+    font-size: 20px;
+    /* font-weight: 750; */
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: green;
+    position: relative;
+    top: -60px;
+}
+
+.search{
+    width: 80%;
+    height: 39px;
+    margin-left:150px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+.noun_tick_684585 {
+    width: 20px;
+    height: 25px;
+    margin: 3px 16px 0px 0px ;
+    object-fit: contain;
+}
+.foodType{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    box-sizing: border-box;
+    justify-content:left;
+    flex-wrap: wrap;
+}
+
+.food-img img{
+    height: 200px;
+    width: 200px;
+    border-radius: 4%;
+    cursor: pointer;
+    filter: brightness(90%);
+}
+
+.food_name{
+    position: absolute;
+    left: 20%;
+    top:60%;
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: normal;
+    color: whitesmoke;
+    width: 150px;
+}
+  
+.foodDetails{
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.bestsellers .best{
+    position: relative;
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: normal;
+    padding: 75px 0 10px 0px;
+    margin:auto;
+    line-height: 2.33;
+    margin-left: 20px;
+}
+
+.arrow_img{
+    margin: 25px 0 0 5px;
+    
+}
+.arrow_img img{
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+    border: 2px solid #d9d9d9;
+    
+}
+.productsName{
+   display:flex;
+   justify-content: center;
+}
+.seeAllproduct{
+    font-size: 25px;
+    color:#4d4d4d;
+    font-stretch: normal;
+    font-style: normal;
+}
